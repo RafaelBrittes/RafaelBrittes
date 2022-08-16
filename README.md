@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RafaelBrittes
 - 👀 I’m interested in develop my knowledge in front-end and back-end
-- 🌱 I’m currently strengthening my knowledge in PHP, Laravel and another tecnologies like Angular and Ionic.
+- 🌱 I’m currently strengthening my knowledge in PHP, Laravel and another tecnologies like React.
 - 📫 You can reach me by email at rafael-brittes@hotmail.com, phone +55 47 9 9706-5067, www.linkedin.com/in/rafaelbrittes
